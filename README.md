@@ -227,17 +227,17 @@ gantt
 
 ```mermaid
 quadrantChart
-    title "Industry Demand vs. Academic Preparation"
-    x-axis "Market Need" --> "Low", "High"
-    y-axis "My Proficiency" --> "Novice", "Expert"
-    quadrant-1 "Differentiators"
-    quadrant-2 "Emerging Strengths"
-    quadrant-3 "Baseline"
-    quadrant-4 "Commodities"
-    "AI/ML": [0.8, 0.9]
-    "Financial Modeling": [0.7, 0.85]
-    "Cloud Architecture": [0.6, 0.75]
-    "Regulatory Compliance": [0.4, 0.9]
+    title Industry Demand vs. Academic Preparation
+    x-axis Market Need --> Low, High
+    y-axis My Proficiency --> Novice, Expert
+    quadrant-1 Differentiators
+    quadrant-2 Emerging Strengths
+    quadrant-3 Baseline
+    quadrant-4 Commodities
+    AI/ML: [0.8, 0.9]
+    Financial Modeling: [0.7, 0.85]
+    Cloud Architecture: [0.6, 0.75]
+    Regulatory Compliance: [0.4, 0.9]
 ```
 
 ---
