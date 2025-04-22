@@ -218,13 +218,12 @@ graph TD
 # Industry-Aligned Radar Chart (For Domain Specialists)
 
 ```mermaid
-%% Note: If this fails, use the XY chart alternative below
-xychart-beta
-    title "Cross-Domain Competencies"
-    x-axis "Skill Domains" --> "AI/ML", "Finance", "Cloud", "Compliance"
-    y-axis "Proficiency Level" 0-->100
-    bar [90, 85, 75, 90] --> "My Skills"
-    bar [80, 70, 60, 40] --> "Market Demand"
+%% Simplified Radar Chart
+radarChart
+    title Skills Radar
+    axis AI/ML, Finance, Cloud, Compliance
+    Me: [90, 85, 75, 90]
+    Market: [80, 70, 60, 40]
 ```
 
 # Business Function Matrix (For Executive Presentations)
