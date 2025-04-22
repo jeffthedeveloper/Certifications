@@ -1,10 +1,17 @@
 ---
+title: "🚀 Certifications & Academic Journey (2011–2025)"
+author: "Jefferson Firmino Mendes"
+position: "Full-Stack Developer | Data Scientist | AI Engineer"
+links:
+  portfolio: "https://github.com/jeffthedeveloper"
+  linkedin: "https://linkedin.com/in/professorjefferson"
+---
 
 # 🚀 Certifications & Academic Journey (2011–2025)
 
 **Jefferson Firmino Mendes**  
 📍 Full-Stack Developer | Data Scientist | AI Engineer  
-🌐 [Portfolio](https://github.com/jeffthedeveloper) • [LinkedIn](https://linkedin.com/in/jeffthedeveloper)
+🌐 [Portfolio](https://github.com/jeffthedeveloper) • [LinkedIn](https://linkedin.com/in/professorjefferson)
 
 ---
 
