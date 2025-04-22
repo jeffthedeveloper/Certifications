@@ -218,12 +218,12 @@ graph TD
 # Industry-Aligned Radar Chart (For Domain Specialists)
 
 ```mermaid
-%% Simplified Radar Chart
-radarChart
-    title Skills Radar
-    axis AI/ML, Finance, Cloud, Compliance
-    Me: [90, 85, 75, 90]
-    Market: [80, 70, 60, 40]
+bar
+    title Skills vs Market Demand
+    x-axis AI/ML, Finance, Cloud, Compliance
+    y-axis Proficiency %
+    bar "My Skills" : 90, 85, 75, 90
+    bar "Market Need" : 80, 70, 60, 40
 ```
 
 # Business Function Matrix (For Executive Presentations)
