@@ -218,12 +218,21 @@ graph TD
 # Industry-Aligned Radar Chart (For Domain Specialists)
 
 ```mermaid
-bar
-    title Skills vs Market Demand
-    x-axis AI/ML, Finance, Cloud, Compliance
-    y-axis Proficiency %
-    bar "My Skills" : 90, 85, 75, 90
-    bar "Market Need" : 80, 70, 60, 40
+%% Percentage bars using graph
+graph LR
+    subgraph My Skills
+    A[AI/ML: 90%] --> |█████████ | A1
+    B[Finance: 85%] --> |████████ | B1
+    C[Cloud: 75%] --> |███████ | C1
+    D[Compliance: 90%] --> |█████████ | D1
+    end
+    
+    subgraph Market Need
+    A2[AI/ML: 80%] --> |████████ | A3
+    B2[Finance: 70%] --> |███████ | B3
+    C2[Cloud: 60%] --> |██████ | C3
+    D2[Compliance: 40%] --> |████ | D3
+    end
 ```
 
 # Business Function Matrix (For Executive Presentations)
