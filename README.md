@@ -195,6 +195,88 @@ flowchart LR
 | E-Commerce  | RecSys (60%)    | Pricing Strategy (40%) | **28%** GMV Increase   |
 | HealthTech  | NLP (50%)       | Cost Optimization (50%) | **$2.3M** Annual Savings |
 
+
+# Market Value VS Proficiency (For Technical Recruiters)
+
+```mermaid
+graph TD
+    classDef tech fill:#4CAF50,stroke:#388E3C;
+    classDef finance fill:#2196F3,stroke:#1976D2;
+    classDef hybrid fill:#9C27B0,stroke:#7B1FA2;
+    
+    A[["Skills Portfolio<br>Market Value × Proficiency"]] 
+    --> B[("AI/ML Engineering<br>Demand: 80%<br>Mastery: 90%")]
+    --> C[("Financial Modeling<br>Demand: 70%<br>Mastery: 85%")]
+    --> D[("Cloud Architecture<br>Demand: 60%<br>Mastery: 75%")]
+    --> E[("RegTech Solutions<br>Demand: 40%<br>Mastery: 90%")]
+    
+    class B,C tech;
+    class D hybrid;
+    class E finance;
+```
+
+# Industry-Aligned Radar Chart (For Domain Specialists)
+
+```mermaid
+%% Note: If this fails, use the XY chart alternative below
+xychart-beta
+    title "Cross-Domain Competencies"
+    x-axis "Skill Domains" --> "AI/ML", "Finance", "Cloud", "Compliance"
+    y-axis "Proficiency Level" 0-->100
+    bar [90, 85, 75, 90] --> "My Skills"
+    bar [80, 70, 60, 40] --> "Market Demand"
+```
+
+# Business Function Matrix (For Executive Presentations)
+
+```mermaid
+journey
+    title Value Across Business Functions
+    section Technology Teams
+      AI/ML: 5: Me
+      Cloud: 4: Me
+    section Finance
+      Modeling: 5: Me
+      Analytics: 4: Me
+    section Compliance
+      Reporting: 5: Me
+      Risk: 4: Me
+```
+
+## 🎯 Targeted Financial and Consultant Propositions
+
+
+### For Financial Institutions:
+```mermaid
+pie
+    title Finance Value Mix
+    "Quantitative Modeling" : 45
+    "RegTech Implementation" : 30
+    "Data-Driven Insights" : 25
+```
+
+### For Consultancies:
+```mermaid
+pie
+    title Advisory Strengths
+    "Technical Implementation" : 40
+    "Financial Transformation" : 35
+    "Compliance Automation" : 25
+```
+
+
+# 🎯 Targeted Value Propositions
+
+## For Tech Companies:
+
+```mermaid
+pie
+    title Tech Value Mix
+    "AI Development" : 35
+    "Cloud Solutions" : 25
+    "FinTech Integration" : 40
+```
+
 # 💻 Big Tech Advantages
 
 Skill | Application | Impact
