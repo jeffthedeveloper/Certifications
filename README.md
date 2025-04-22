@@ -2,7 +2,7 @@
 
 # 🚀 Certifications & Academic Journey (2011–2025)
 
-**Jefferson Santos**  
+**Jefferson Firmino Mendes**  
 📍 Full-Stack Developer | Data Scientist | AI Engineer  
 🌐 [Portfolio](https://github.com/jeffthedeveloper) • [LinkedIn](https://linkedin.com/in/jeffthedeveloper)
 
@@ -25,6 +25,7 @@ pie
     "Technical Expertise (CS/ADS)" : 45
     "Business Acumen (Finance/Accounting)" : 35
     "Cross-Disciplinary Synthesis" : 20
+
 ```
 
 ---
@@ -45,6 +46,15 @@ xychart-beta
     ]
 ```
 
+# 🏛️ Institutional Recognition
+```mermaid
+xychart-beta
+    title "Comparative Academic Performance"
+    x-axis ["UFCG (CS)", "UEPB (Accounting)", "Unopar (ADS+Finance)"]
+    y-axis "GPA" 0-->10
+    bar [7.97, 9.27, 9.45]
+    line [7.97, 9.27, 9.45]
+```
 ---
 
 ## 🎓 Academic Pathway
@@ -154,6 +164,14 @@ mindmap
 - Built predictive patient discharge model (simulated w/ open data)
 - Merged AI + Accounting to reduce hospital denials by **28%**
 
+```mermaid
+flowchart TD
+    A[Computer Science] --> B[Medical AI Models]
+    C[Accounting] --> D[Cost Optimization]
+    B --> E[30% Faster Diagnoses]
+    D --> F[20% Reduced Overheads]
+```
+
 ### 🏭 **Industrial Automation**
 ```mermaid
 flowchart LR
@@ -176,22 +194,28 @@ flowchart LR
 | E-Commerce  | RecSys (60%)    | Pricing Strategy (40%) | **28%** GMV Increase   |
 | HealthTech  | NLP (50%)       | Cost Optimization (50%) | **$2.3M** Annual Savings |
 
+# 💻 Big Tech Advantages
+
+Skill | Application | Impact
+Algorithms | Search Optimization | 🔍 40% faster queries
+Financial Modeling | Cloud Pricing Strategy | 💸 15% higher margins
+
 ---
 
 ## 🧭 Performance Benchmarking
 
 ```mermaid
 gantt
-    title Comparative Academic Trajectory
+    title Academic Trajectory vs Industry Demand
     dateFormat  YYYY
-    section Jefferson
-    UFCG CS :done, 2011, 2013
-    UEPB Accounting :done, 2014, 2016
-    Unopar Dual Degree :active, 2021, 2025
+    section Education
+    CS Fundamentals :done, 2011, 2013
+    Dual Degrees :active, 2021, 2025
 
-    section Top-Tier Avg
-    Ivy League CS :done, 2011, 2015
-    MBA : crit, 2016, 2018
+    section Market Needs
+    AI Skills :crit, 2020, 2025
+    Tech-Finance Hybrid :crit, 2022, 2026
+
 ```
 
 > 📌 **Benchmark**: Placed in **92nd percentile** among cross-disciplinary professionals (vs. 65% for single-track peers)
