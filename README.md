@@ -41,9 +41,9 @@ pie
 
 ```mermaid
 graph TD
-    A[UFCG (CS): 7.97 GPA] -->|Top 15%| X
-    B[UEPB (Accounting): 9.27 GPA] -->|Top 5%| X
-    C[Unopar (ADS+Finance): 9.45 GPA] -->|Summa Cum Laude| X
+    A["UFCG (CS): 7.97 GPA"] -->|Top 15%| X
+    B["UEPB (Accounting): 9.27 GPA"] -->|Top 5%| X
+    C["Unopar (ADS+Finance): 9.45 GPA"] -->|Summa Cum Laude| X
 ```
 
 # 🏛️ Institutional Recognition
@@ -61,18 +61,18 @@ xychart-beta
 
 ```mermaid
 flowchart TD
-    A[Academic Track] --> B[UFCG - CS 2011-2013]
-    A --> C[UEPB - Accounting 2014-2016]
-    A --> D[Unopar - Finance + ADS 2021-2025]
+    A[Academic\\nTrack] --> B[UFCG\\nCS\\n2011-2013]
+    A --> C[UEPB\\nAccounting\\n2014-2016]
+    A --> D[Unopar\\nFinance+ADS\\n2021-2025]
     
-    B --> B1[Programming I (8.2)]
-    B --> B2[Computer Lab I (8.2)]
+    B --> B1[Programming I\\n8.2]
+    B --> B2[Computer Lab I\\n8.2]
     
-    C --> C1[Capital Markets (9.8)]
-    C --> C2[Tax Law (8.8)]
+    C --> C1[Capital Markets\\n9.8]
+    C --> C2[Tax Law\\n8.8]
     
-    D --> D1[ADS Degree CR: 8.7]
-    D --> D2[Finance Degree CR: 9.3]
+    D --> D1[ADS Degree\\nCR:8.7]
+    D --> D2[Finance Degree\\nCR:9.3]
 
 ```
 
