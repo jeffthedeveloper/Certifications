@@ -215,7 +215,7 @@ graph TD
     class E finance;
 ```
 
-# Industry-Aligned Radar Chart (For Domain Specialists)
+# Percentage Bars (For Domain Specialists)
 
 ```mermaid
 %% Percentage bars using graph
