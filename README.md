@@ -40,17 +40,12 @@ pie
 ## 🏛️ Institutional Performance
 
 ```mermaid
-xychart-beta
-    title "Comparative Academic Performance (2011–2025)"
-    x-axis ["UFCG (CS)", "UEPB (Accounting)", "Unopar (ADS+Finance)"]
-    y-axis "GPA" 0-->10
-    bar [7.97, 9.27, 9.45]
-    line [7.97, 9.27, 9.45]
-    annotations [
-        ["UFCG", 7.97, "Top 15%"],
-        ["UEPB", 9.27, "Top 5%"],
-        ["Unopar", 9.45, "Summa Cum Laude"]
-    ]
+%% Comparative Academic Performance (2011–2025)
+graph TD
+    A[UFCG (CS): 7.97 GPA] -->|Top 15%| X
+    B[UEPB (Accounting): 9.27 GPA] -->|Top 5%| X
+    C[Unopar (ADS+Finance): 9.45 GPA] -->|Summa Cum Laude| X
+
 ```
 
 # 🏛️ Institutional Recognition
