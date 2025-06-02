@@ -17,7 +17,7 @@ links:
 
 ## 🔍 Snapshot
 
-✅ **285+ Certifications** across Tech, Data & Business  
+✅ **70+ Certifications** across Tech, Data & Business  
 📈 **14-Year Journey** from IT Foundations to AI/ML Expertise  
 🎯 **Core Specializations**: Full-Stack Dev • Data Science • AI • Cloud  
 🏆 **Highlights**: IBM Data Pro • Microsoft AI • PMI Agile • Google Cloud  
